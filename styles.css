@@ -75,7 +75,7 @@ nav ul li a:hover {
     align-items: center;
     padding: 100px 50px;
     background: linear-gradient(rgba(220, 169, 98, 0.844), rgba(210, 180, 140, 0.8)),
-                url('images/pic.jpeg') center/cover fixed;
+                url('pic.jpeg') center/cover fixed;
     color: white;
     min-height: 100vh;
     animation: fadeIn 1s ease-out;
